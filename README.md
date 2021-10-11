@@ -20,7 +20,7 @@ adding Harmony token with logo <img src="https://s2.coinmarketcap.com/static/img
    <img src="https://github.com/ardiferdiansah07/Harmony-add-token-with-logo/blob/main/4.png">
    <img src="https://github.com/ardiferdiansah07/Harmony-add-token-with-logo/blob/main/5.png">
    
-  ### inpect element at Harmony logo and copy link image
+  ### inspect element at Harmony logo and copy link image
    <img src="https://github.com/ardiferdiansah07/Harmony-add-token-with-logo/blob/main/6.png">
    <img src="https://github.com/ardiferdiansah07/Harmony-add-token-with-logo/blob/main/7.png">
    
